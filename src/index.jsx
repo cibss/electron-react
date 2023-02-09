@@ -3,7 +3,7 @@ import Text from "./components/Text.jsx";
 
 function Index() {
   return (
-    <Text string="This is text from Index.js" />
+    <Text string="Electron forge with React" />
   )
 }
 
